@@ -1,0 +1,2 @@
+rootProject.name = "signalsCollector"
+include ':app'
